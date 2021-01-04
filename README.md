@@ -30,6 +30,8 @@ This table has all the columns that Jira has for an issue.
 ### 2. Worklogs
 This table has all the Worklogs logged by the users against any issue. This table has one-to-many relationship with the Issues table.
 
+![](images/Dataset.PNG)
+
 **Note: The dataset is not realtime, so everytime you are generating a report, you will have to manually refresh the data**
 
 # Sample Out-of-the-box Reports
