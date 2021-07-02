@@ -16,9 +16,11 @@ Jira is one of the most used tool for task/project management, but if you are a 
 
 1. Download the template file to your computer.
 2. Open the file in Power BI Desktop by double clicking on the template file.
-3. A popup will appear asking for the URL, type in the URL for your JIRA Cloud, for e.g. https://yourcompanyname.atlassian.net and press 'Load'. 
-4. After some processing, a popup will appear asking for credentials. Choose Basic authentication and type in your email address as Username and the API token as your password.
-5. Hit enter and it will start to load all the data from your Jira account to your report.
+3. A popup will appear asking for the URL and Project
+4. Type in the URL for your JIRA Cloud, for e.g. https://yourcompanyname.atlassian.net.
+5. Type in the Project initials if you want to fetch issues for one project only (Optional). 
+6. Click Load, after some processing, a popup will appear asking for credentials. Choose Basic authentication and type in your email address as Username and the API token as your password.
+7. Hit enter and it will start to load all the data from your Jira account to your report.
 
 # Report's Dataset
 
